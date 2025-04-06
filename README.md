@@ -42,11 +42,11 @@ We developed a Large Language Model (LLM) chatbot that delivers domain-specific 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CHLA-LLM-Capstone-Project.git
+    git clone https://github.com/yourusername/CHLA-LLM-Chatbot.git
     ```
 2. Navigate to the directory:
     ```bash
-    cd CHLA-LLM-Capstone-Project
+    cd CHLA-LLM-Chatbot
     ```
 3. Install dependencies:
     ```bash
